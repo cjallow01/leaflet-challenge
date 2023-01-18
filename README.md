@@ -46,3 +46,21 @@ When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you w
   Your visualization should look something like the preceding map.
 
 ![This is an image](https://github.com/cjallow01/leaflet-challenge/blob/main/images/popup.png)
+
+Part 2: Gather and Plot More Data (Optional) 
+
+Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates Links to an external site.
+
+The following image is an example screenshot of what you should produce:
+
+![This is an image](https://github.com/cjallow01/leaflet-challenge/blob/main/images/p2-global.png)
+
+Perform the following tasks:
+
+  Plot the tectonic plates dataset on the map in addition to the earthquakes.
+  
+  Add other base maps to choose from.
+  
+  Put each dataset into separate overlays that can be turned on and off independently.
+  
+  Add layer controls to your map.
