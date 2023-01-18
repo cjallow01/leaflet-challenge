@@ -49,7 +49,7 @@ When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you w
 
 Part 2: Gather and Plot More Data (Optional) 
 
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates Links to an external site.
+Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at (https://github.com/fraxen/tectonicplates) Links to an external site.
 
 The following image is an example screenshot of what you should produce:
 
