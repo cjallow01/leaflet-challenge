@@ -22,7 +22,7 @@ Part 2: Gather and Plot More Data (Optional with no extra points earning)
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 1. Get your dataset. To do so, follow these steps:
   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. 
-    Visit the USGS GeoJSON Feed Links to an    external site. page and choose a dataset to visualize. 
+    Visit the [USGS GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) Feed Links to an external site. page and  choose a dataset to visualize. 
       The following image is an example screenshot of what appears when you visit this link:
 
 
