@@ -25,4 +25,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
     Visit the USGS GeoJSON Feed Links to an    external site. page and choose a dataset to visualize. 
       The following image is an example screenshot of what appears when you visit this link:
 
+
+![This is an image](https://github.com/cjallow01/leaflet-challenge/blob/main/images/3-Data.png)
+
 ![This is an image](https://github.com/cjallow01/leaflet-challenge/blob/main/images/JSON.png)
