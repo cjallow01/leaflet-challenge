@@ -13,7 +13,10 @@ Part 1: Create the Earthquake Visualization
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 **Part 1: Create the Earthquake Visualization**
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://github.com/cjallow01/leaflet-challenge/blob/main/images/p1-globalblue.png)
+
+
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 Get your dataset. To do so, follow these steps:
